@@ -1,0 +1,3 @@
+*.obj linguist-vendored
+**/__pycache__/* linguist-vendored
+*.pyc linguist-vendored
